@@ -1,0 +1,5 @@
+C:\Users\u-93\source\repos\PatrickLapik\ObjectToObjectMapper\ObjectToObjectMapper\obj\Debug\net6.0\ObjectToObjectMapper.csproj.AssemblyReference.cache
+C:\Users\u-93\source\repos\PatrickLapik\ObjectToObjectMapper\ObjectToObjectMapper\obj\Debug\net6.0\ObjectToObjectMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-93\source\repos\PatrickLapik\ObjectToObjectMapper\ObjectToObjectMapper\obj\Debug\net6.0\ObjectToObjectMapper.AssemblyInfoInputs.cache
+C:\Users\u-93\source\repos\PatrickLapik\ObjectToObjectMapper\ObjectToObjectMapper\obj\Debug\net6.0\ObjectToObjectMapper.AssemblyInfo.cs
+C:\Users\u-93\source\repos\PatrickLapik\ObjectToObjectMapper\ObjectToObjectMapper\obj\Debug\net6.0\ObjectToObjectMapper.csproj.CoreCompileInputs.cache
