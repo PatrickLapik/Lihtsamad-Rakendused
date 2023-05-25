@@ -1,0 +1,5 @@
+C:\Users\u-93\source\repos\CalculatorDemo\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.csproj.AssemblyReference.cache
+C:\Users\u-93\source\repos\CalculatorDemo\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-93\source\repos\CalculatorDemo\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.AssemblyInfoInputs.cache
+C:\Users\u-93\source\repos\CalculatorDemo\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.AssemblyInfo.cs
+C:\Users\u-93\source\repos\CalculatorDemo\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.csproj.CoreCompileInputs.cache
